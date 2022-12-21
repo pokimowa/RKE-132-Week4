@@ -1,0 +1,15 @@
+C:\Users\slend\source\repos\week4loops\week4loops\bin\Debug\net6.0\week4loops.exe
+C:\Users\slend\source\repos\week4loops\week4loops\bin\Debug\net6.0\week4loops.deps.json
+C:\Users\slend\source\repos\week4loops\week4loops\bin\Debug\net6.0\week4loops.runtimeconfig.json
+C:\Users\slend\source\repos\week4loops\week4loops\bin\Debug\net6.0\week4loops.dll
+C:\Users\slend\source\repos\week4loops\week4loops\bin\Debug\net6.0\week4loops.pdb
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.csproj.AssemblyReference.cache
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.AssemblyInfoInputs.cache
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.AssemblyInfo.cs
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.csproj.CoreCompileInputs.cache
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.dll
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\refint\week4loops.dll
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.pdb
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\week4loops.genruntimeconfig.cache
+C:\Users\slend\source\repos\week4loops\week4loops\obj\Debug\net6.0\ref\week4loops.dll
